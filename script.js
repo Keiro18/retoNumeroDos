@@ -87,7 +87,6 @@ sumarNumeros.addEventListener('click', (e) => {
             icon: 'success',
             title: 'Sumar los dos numeros',
             text: 'La suma de los dos numeros es: ' + resultado,
-            backgraund: '#031a1b',
         })
     }
 });
